@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gir:home|Door43 (gir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gir|d43-gir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gir/archive/master.zip|d43-gir.zip]]
+
+**Recent Changes**
+{{changes>ns = gir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gir|Ethnologue data]]
+
